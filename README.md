@@ -1,6 +1,4 @@
 # Python
-Todos os meus projetos e estudos que foi feito em Python
-<br>
 <strong><h1>Tela de login</h1></strong>
 <h3>Tela de login feito em tkinter, junto com o meu estudo sobre tkinter e customtkinter</h3>
 
